@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Md Wasif",
+    "version": "1.0.0",
+    "icons": { "128": "w.png" },
+    "browser_action": {
+      "default_icon": "w.png",
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+
+  }
